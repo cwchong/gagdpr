@@ -1,0 +1,10 @@
+---
+Name: gagdpr
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Cwchong\GaGdpr\Extensions\SiteConfigExtension
+
+Page:
+  extensions:
+    - Cwchong\GaGdpr\Extensions\PageExtension
